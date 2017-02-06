@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.bbs.byr.cn	TRUE	/	FALSE		nforum[UTMPKEY]	17360041
+.bbs.byr.cn	TRUE	/	FALSE		nforum[UTMPNUM]	6273
+.bbs.byr.cn	TRUE	/	FALSE		nforum[UTMPUSERID]	guest
